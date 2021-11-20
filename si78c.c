@@ -461,7 +461,7 @@ static YieldReason yield_reason;
 static SDL_Window *window;
 static SDL_Renderer *renderer;
 
-static const int renderscale = 2;
+static const int renderscale = 1;
 
 static uint64_t keystate;
 
